@@ -1,0 +1,32 @@
+/********************************************TAG SELECTORS********************************************/
+body {
+  background-color: rgb(235, 255, 255);
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 5%;
+  border-color: #48685d;
+}
+
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #315c5c;
+}
+
+li {
+  font-size: 25px;
+}
+
+li:hover {
+  color: rgb(219, 192, 39);
+}
+
+/********************************************CLASS SELECTORS********************************************/
+
+.hobbies {
+  font-size: 45px;
+}
